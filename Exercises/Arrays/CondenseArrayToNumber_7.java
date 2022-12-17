@@ -26,7 +26,6 @@ public class CondenseArrayToNumber_7 {
             } else {
                 condensed[i] = nums[i] + nums[i + 1];
             }
-
         }
         System.out.println(nums[0]);
     }
